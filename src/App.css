@@ -1,0 +1,35 @@
+body{
+  background-color: darkslategrey
+}
+#dropdown{
+  border-style: groove;
+  border-color: black;
+  border-radius: 1rem;
+}
+
+#content{
+  border: .5rem;
+  border-style:double;
+  border-color: black;
+  border-radius: 1rem;
+}
+
+#add-room{
+    background-color: lime;
+    border-radius: 1rem;
+    border-color: whitesmoke;
+}
+
+#delete-room{
+  background-color: red;
+  border-radius: 1rem;
+  border-color: whitesmoke;
+}
+
+#house-name{
+  color: whitesmoke;
+}
+
+#room-data{
+  color: whitesmoke;
+}
